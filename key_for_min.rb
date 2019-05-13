@@ -17,7 +17,7 @@ def key_for_min_value(name_hash)
   elsif name == :adam 
     name
   
-  elsif name == :bla
+  elsif name == :blake
   
   else name ==
     end
