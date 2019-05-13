@@ -4,7 +4,7 @@
 def key_for_min_value(name_hash)
   what = ""
   name_hash.each do |name, age|
-    if name == :a
-      what = key
+    if name == :adam
+      what = name
     end
     end
