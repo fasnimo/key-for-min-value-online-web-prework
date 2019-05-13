@@ -11,20 +11,5 @@ def key_for_min_value(name_hash)
     
   end
 end
+end
     
-  elsif name == :values
-  
-  elsif name == :min 
-  
-  elsif name == :sort
-  
-  elsif name == :min_by
-  
-  elsif name == :adam 
-    name
-  
-  elsif name == :blake
-  
-  else name == {}
-    end
-    end
