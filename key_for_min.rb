@@ -8,6 +8,16 @@ def key_for_min_value(name_hash)
     
   elsif name == :values
   
-  elsif name == :
+  elsif name == :min 
+  
+  elsif name == :sort
+  
+  elsif name == :min_by
+  
+  elsif name == 
+  
+  elsif name == 
+  
+  else name ==
     end
     end
