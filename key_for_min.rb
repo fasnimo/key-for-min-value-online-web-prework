@@ -7,5 +7,4 @@ def key_for_min_value(name_hash)
     if key == :key("adam")
       what = key
     end
-
-end
+    end
